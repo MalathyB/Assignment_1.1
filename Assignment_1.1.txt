@@ -1,0 +1,91 @@
+1. Various sources of Big Data
+:   
+      Social Data - Twitter,Linkedin,Facebook
+    
+      Sensor Data - Medical devices,Car sensor,Videa game
+    
+      Public Web - weather,traffic,the world bank
+     
+      Archives - Archives of scanned documents,statements,insurance forms
+   
+      Business Apps - google docs,project management,intranets
+    
+      Media - images,videos,audio
+     
+      Data Storage - sql,nosql,hadoop
+    
+      Machine Log Data - Audit log,Mobile location,Event logs
+  
+ 
+
+2. 3 V's of Big data: 
+    
+     3Vs are three defining properties or dimensions of big data.
+  
+     They are:
+    
+            ->Volume refers to the amount of data such as
+        
+                  *  Terabytes
+        
+                  *  Records
+          
+                  *  Transactions
+        
+                  *  Tables
+         
+                  *  Files
+     
+            ->Variety refers to the number of types of data includes
+    
+                  *  Structured
+        
+                  *  Unstructured
+       
+                  *  Semi-structured
+      
+                  *  All the above
+     
+            ->Velocity refers to the speed of data processing such as
+   
+                  *  Batch
+        
+                  *  Near-time
+         
+                  *  Real-time
+        
+                  *  Streams
+     
+   
+
+3. Horizontal Scaling and Vertical Scaling
+: 
+     * Horizontal Scaling - Scale out/in
+                     
+                          - To add or remove nodes from a system
+   
+     * Vertical Scaling - Scale down/up
+                
+                        - To add or remove resources to a single node in a system
+ 
+        
+
+4. Need and Working of Hadoop
+:  
+      Needs:
+      
+          * Hadoop provides a cost effective storage solution for business
+      
+          * It is highly scalable storage platform
+          
+          * Hadoop is fault tolerance
+    
+      Working:
+       
+          * Hadoop is a data processing framework and a distributed filesystem for data storage 
+       
+          * It has two main systems:
+        
+                1.Hadoop Distributed File System(HDFS)
+           
+                2.MapReduce engine
